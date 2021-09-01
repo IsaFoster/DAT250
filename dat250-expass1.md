@@ -14,15 +14,14 @@ I had to manually add Maven to path, but encountered no issues beyond that.
 To verify that the installation was successful and that the existing installations were up to date,
 I ran some simple commands in the terminal to determine this.
 
-- Java Development Environment (JDK):
+- Java Development Environment (JDK): \ 
   I verified that this is the correct, updated version.
 ```console
 C:\Users\Isabel>javac -version
 javac 16.0.2
 ```
 
-
-- An Integrated Development Environment (IDE):
+- An Integrated Development Environment (IDE): \
   I use IntelliJ as my IDE. I confirmed that it's working correctly by creating and writing this file. 
 
 - Maven software management tool:
@@ -42,14 +41,12 @@ git version 2.33.0.windows.2
 ```
 
 ## Experiment: Heroku and Platform as a Service
+I followed the steps in the heroku tutorial without issues. As I didn't want to provide payment information, I skipped
+the Provision add-ons step og the tutorial. \
 
+[URL to Heroku app](https://powerful-mesa-99172.herokuapp.com/)
 
+## Final notes
+I did not experience any issues either during installation or during the tutorial. 
 
-
-In particular, you should write about:
-- technical problems that you encountered during installation of the software development environment and how you have solved them
-- how you have validated (checked) that the software development environment is working
-- technical problems encountered with the Heroku platform and how you solved them
-- any pending issues with this assignment which you did not manage to solve
-The hand-in should be written in English.
 
