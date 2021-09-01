@@ -12,11 +12,20 @@ I had to manually add Maven to path, but encountered no issues beyond that.
 
 ### Verification 
 To verify that the installation was successful and that the existing installations were up to date,
-I ran some simple commands in the terminal to determine this. 
-- javac -version 
-  
->javac 16.0.2
+I ran some simple commands in the terminal to determine this.
 
+- Java Development Environment (JDK):
+  I verified that this is the correct, updated version.
+```console
+C:\Users\Isabel>javac -version
+javac 16.0.2
+```
+
+
+- An Integrated Development Environment (IDE):
+  I use IntelliJ as my IDE. I confirmed that it's working correctly by creating and writing this file. 
+
+- Maven software management tool:
 ```console
 C:\Users\Isabel>mvn -version
 Apache Maven 3.8.2 (ea98e05a04480131370aa0c110b8c54cf726c06f)
@@ -26,8 +35,15 @@ Default locale: en_GB, platform encoding: Cp1252
 OS name: "windows 10", version: "10.0", arch: "amd64", family: "windows"
 ```
 
+- A Git client:
+```console
+C:\Users\Isabel>git --version
+git version 2.33.0.windows.2
+```
 
-Confirmed tha this corresponds to the newest version
+## Experiment: Heroku and Platform as a Service
+
+
 
 
 In particular, you should write about:
