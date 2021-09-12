@@ -17,7 +17,9 @@ added another instance (row) to the database.
 ### Part 2
 As instructed in the tutorial, I created a new project, de.vogella.jpa.eclipselink. 
 I did a few issues while trying to run the JUnit tests, continuously getting a javax.persistence error. 
-In the end this was solved by updating openjdk. 
+Eventually this was solved by adding maven dependencies manually and changing to a previous JDK version.
+I don't know why this error occurred, but the solution above solved the problem, so I could continue testing the 
+database. 
 This resulted in the following tables being created:
 
 ![image](pictures/picture3.png)
@@ -30,11 +32,23 @@ With the relations between the entities as follows:
 
 ## Experiment 2 
 
+For this experiment I created a new project and tried to implement the classes as described in the image. 
+Below is the result of the relations as show in intellij. 
 
+![image](pictures/picture4.png)
 
+I'm not sure is the relationships are set up correctly. intellij uses another notation im not
+familiar with. 
+
+I did experience issues while attempting to add the object diagram to the database that I was 
+not able to solve before handing in the assignment. Due to the earlier technical difficulties I
+did not have enough time this week to fix this.
+
+[Link to EX2 repository](https://github.com/IsaFoster/Credit_Card_example_JPA)
 
 ## Final notes
-FUCK 
+Earlier technical difficulties took a lot of time to resolve, as a result I had less time actually 
+solving the exercise. 
 
 
 
