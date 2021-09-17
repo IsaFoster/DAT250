@@ -7,7 +7,7 @@ For the first experiment I cloned the example project and followed the tutorial 
 I used the built-in database viewer in intellij to inspect databases and tables created. 
 Running the main method of the example project produced the following results:
 
-![image](pictures/picture1.png)
+![image](pictures/ex2/picture2.1.png)
 
 A table TODO was created, containing ID (primary key), description and summary columns. Running the method again 
 added another instance (row) to the database. 
@@ -22,11 +22,11 @@ I don't know why this error occurred, but the solution above solved the problem,
 database. 
 This resulted in the following tables being created:
 
-![image](pictures/picture3.png)
+![image](pictures/ex2/picture2.3.png)
 
 With the relations between the entities as follows: 
 
-![image](pictures/picture2.png)
+![image](pictures/ex2/picture2.2.png)
 
 [Link to EX1 repository part 2](https://github.com/IsaFoster/de.vogella.jpa.eclipselink)
 
@@ -35,7 +35,7 @@ With the relations between the entities as follows:
 For this experiment I created a new project and tried to implement the classes as described in the image. 
 Below is the result of the relations as show in intellij. 
 
-![image](pictures/picture4.png)
+![image](pictures/ex2/picture2.4.png)
 
 I'm not sure is the relationships are set up correctly. intellij uses another notation im not
 familiar with. 
