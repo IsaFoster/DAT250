@@ -38,17 +38,19 @@ Below is the result of the relations as show in intellij.
 ![image](pictures/ex2/picture2.4.png)
 
 I'm not sure is the relationships are set up correctly. intellij uses another notation im not
-familiar with. 
+familiar with. I made adjustments to the association between person and address to represent 
+many to many, and added the example.
 
-I did experience issues while attempting to add the object diagram to the database that I was 
-not able to solve before handing in the assignment. Due to the earlier technical difficulties I
-did not have enough time this week to fix this.
+I did experience issues while attempting to add the object diagram to the database. This was solved 
+eventually by adjusting some settings. 
+Below is the result of running the main method three times (adding the example three times). 
+To the right all the tables created can be seen. 
+![image](pictures/ex2/picture2.5.png)
 
 [Link to EX2 repository](https://github.com/IsaFoster/Credit_Card_example_JPA)
 
 ## Final notes
-Earlier technical difficulties took a lot of time to resolve, as a result I had less time actually 
-solving the exercise. 
+
 
 
 
