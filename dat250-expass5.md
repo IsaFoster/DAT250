@@ -41,9 +41,11 @@ end of the report.
 My file was named rest-service-initial-0.0.1-SNAPSHOT.jar, so after changing the command I
 could run the .jar file and execute the code 
 
-![image](pictures/ex5/picture5.7.png)
 
-![image](pictures/ex5/picture5.8.png)
+![image](pictures/ex5/picture5.7.PNG)
+
+
+![image](pictures/ex5/picture5.8.PNG)
 
 The code can be found in the folder "initial-ex3" in the repository referenced at the
 end of the report.
