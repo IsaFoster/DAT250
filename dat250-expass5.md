@@ -52,7 +52,10 @@ end of the report.
 
 ## Experiment 4
 
+Once again the jar file was named differently (I'm unsure why that is). 
+Executing the .jar file gave the following:
 
+![image](pictures/ex5/picture5.9.PNG)
 
 ## Final Notes
 
